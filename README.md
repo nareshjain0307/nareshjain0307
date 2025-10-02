@@ -30,7 +30,7 @@ mission: "Securing the digital frontier, one byte at a time."
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Arsenal - Pursing
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,azure,docker,kubernetes,terraform,ansible,git,github,js,html,css,mysql,postgres,redis,grafana,prometheus" />
@@ -47,7 +47,7 @@ mission: "Securing the digital frontier, one byte at a time."
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects - IN Process
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
