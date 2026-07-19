@@ -132,7 +132,7 @@ Connection established with the future of cybersecurity
 -->
 
 <div align="center">
-  <i>Last refresh: <strong>Never</strong> | <strong>Always vigilant</strong></i>
+  <i>Last refresh: <strong>Yesterday</strong> | <strong>Always vigilant</strong></i>
 </div>
 
 ---
